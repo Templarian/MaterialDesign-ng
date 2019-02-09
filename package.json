@@ -1,0 +1,30 @@
+{
+  "name": "@mdi/ng",
+  "version": "2.2.43",
+  "description": "Distribution for Material Design Icons for Angular",
+  "main": "mdi.ts",
+  "scripts": {
+    "build": "node build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Templarian/MaterialDesign-ng.git"
+  },
+  "keywords": [
+    "material",
+    "design",
+    "icons",
+    "angular"
+  ],
+  "author": "Austin Andrews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Templarian/MaterialDesign-ng/issues"
+  },
+  "homepage": "https://github.com/Templarian/MaterialDesign-ng#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "@angular/core": "^6.1.6"
+  }
+}
